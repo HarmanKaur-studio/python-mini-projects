@@ -6,7 +6,7 @@ A collection of beginner-friendly Python scripts, small games, and utility proje
 
 | Project 🛠️ | Description📌 | Features 🚀 |
 | :--- | :--- | :--- |
-| **🛠️01. 🎸Band Name Generator ** | A simple and fun Python program that generates random band names by combining adjectives and nouns. This is one of my early coding projects exploring basic Python concepts! | -Generates multiple `print()` statements.       - Great for beginners learning the fundamentals of programming. |
+| **🛠️01. 🎸Band Name Generator ** | A simple and fun Python program that generates random band names by combining adjectives and nouns. This is one of my early coding projects exploring basic Python concepts! | -Generates multiple `print()` statements.<br>- Great for beginners learning the fundamentals of programming. |
 
 ---
 
