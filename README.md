@@ -10,7 +10,7 @@ A collection of beginner-friendly Python scripts, small games, and utility proje
 
 ---
 
-## 🛠️ Requirements & Setup
+## ⚙️ Requirements & Setup
 | **Python 3.x:** Installed on your computer ([Download Python](https://www.python.org/)) |
 | **Windows Users:** Run scripts using `python script_name.py` |
 | **Mac Users:** Run scripts using `python3 script_name.py` |
@@ -18,7 +18,7 @@ A collection of beginner-friendly Python scripts, small games, and utility proje
 
 ---
 
-### Prerequisites
+### ✅  Prerequisites
 | **Python 3.x:** Make sure Python is installed on your system ([Download Python](https://www.python.org/)). |
 | **Pip:** Python's package manager (comes pre-installed with Python). |
 | **Code Editor:** VS Code, PyCharm, or any text editor to view and edit the code. |
